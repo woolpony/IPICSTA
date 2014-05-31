@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IPICSTA Free</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add</string>
+    <string name="no_data_clock">Add a clcok now!</string>
+    <string name="no_data_station">Add a station now!</string>
+    <string name="title_clock_list">Clocks</string>
+    <string name="title_station_list">Stations</string>
+    <string name="onCameraButtonClicked">onCameraButtonClicked</string>
+    <string name="clock_list_on_click">onListItemClick</string>
+    <string name="onAlbumButtonClicked">onAlbumButtonClicked</string>
+    <string name="adid">ca-app-pub-9003229332743553/3421937023</string>
+    
+</resources>
